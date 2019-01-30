@@ -1,0 +1,2 @@
+# digitale Methoden
+[Wiki](../../wiki) 
