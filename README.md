@@ -1,2 +1,2 @@
 # digitale Methoden
-[Wiki](../../wiki) 
+Weiteres findet sich im [Wiki](../../wiki)!
