@@ -1,2 +1,2 @@
-# digitale Methoden
-Weiteres findet sich im [Wiki](../../wiki)!
+# digital methods
+Please visit the [Wiki](../../wiki)!
